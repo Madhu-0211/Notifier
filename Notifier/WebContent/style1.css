@@ -1,0 +1,31 @@
+.navicon 
+{
+  
+  padding:7px;
+  
+}
+#email_id
+{
+font-size:small;
+}
+.left-content
+{
+	margin:10px;
+    padding:10px;
+    background-color:#eeeeee ;
+}
+.right-content
+{
+	margin-right:190px;
+	
+    padding:0px;
+    
+}
+.collapsible
+{
+	background-color:#eeeeee ;
+	width:40%;
+	box-shadow: none!important;
+	border: 0!important;
+}
+

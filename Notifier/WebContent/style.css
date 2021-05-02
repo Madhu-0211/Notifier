@@ -1,0 +1,57 @@
+@charset "ISO-8859-1";
+.Signup
+{
+	width: 450px;
+    padding: 0% 0 0;
+    margin: auto;
+}
+.form
+{
+	
+    position:relative;
+    z-index:1;
+    background:#fafafa ;
+    max-width:360px;
+    margin:40px auto;
+    padding:45px;
+    text-align:center;
+}
+.form input{
+    font-family:"Roboto",sans-serif;
+    outline:1;
+    background:#eeeeee ;
+    width:100%;
+    border:0;
+    margin:0 0 15px;
+    padding:15px;
+    box-sizing:border-box;
+    font-size:14px;
+
+}
+.form button
+{
+    font-family:"Roboto",sans-serif;
+    text-transform:uppercase;
+    outline:0;
+    background:#00bfa5;
+    width:100%;
+    border:0;
+    padding:15px;
+    color:#FFFFFF;
+    font-size:14px;
+    cursor:pointer;
+}
+.form button:hover,.form button:active{
+    background:#00bfa5;
+}
+.form.message
+{
+    margin:15px 0 0;
+    color:#ffff80;
+    font-size:12;
+
+}
+.form .message{
+    color:#000000;
+    text-decoration:none;
+}
